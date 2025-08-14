@@ -1,5 +1,5 @@
 {
-  "name": "farit-slv/monolog-adapter",
+  "name": "vgalak/monolog-adapter",
   "description": "Monolog adapter for Bitrix CMS",
   "keywords": ["bitrix", "monolog", "logger", "log", "psr-3"],
   "type": "library",
@@ -21,7 +21,7 @@
   "require": {
     "php": ">=8.0",
     "monolog/monolog": "1.* || 2.* || 3.*",
-    "theorchard/monolog-cascade": "0.*"
+    "d3r/monolog-cascade": "1.*"
   },
   "autoload": {
     "psr-4": {"Bex\\Monolog\\": "src/"},
