@@ -5,17 +5,13 @@
   "type": "library",
   "license": "MIT",
   "support": {
-    "issues": "https://github.com/farit-slv/monolog-adapter/issues",
-    "source": "https://github.com/farit-slv/monolog-adapter/"
+    "issues": "https://github.com/VladislavGalak/monolog-adapter/issues",
+    "source": "https://github.com/VladislavGalak/monolog-adapter/"
   },
   "authors": [
     {
-      "name": "Nik Samokhvalov",
-      "email": "nik@samokhvalov.info"
-    },
-    {
-      "name": "FaritSlv",
-      "email": "faritslv@github.loc"
+      "name": "Vladislav Galak",
+      "email": "Vladislav@galak.info"
     }
   ],
   "require": {
